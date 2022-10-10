@@ -41,6 +41,15 @@
 Czym się różni jedno od drugiego?
 
 
+### Routing
+
+>However, the game introduced in this paper models a different type of conflict:
+>flow sources do not choose between alternative paths, as these are predetermined
+~Paper
+
+Huh?
+
+
 ## Extra
 
 ### *strict* Nash equilibrium
